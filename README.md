@@ -1,5 +1,6 @@
 # Text Summarization Application
-![alt text](summarization-featured.jpg)
+![summarization-featured](https://github.com/user-attachments/assets/3e2a7c8a-8083-443f-ac06-eab63fd92bad)
+
 This application allows you to input a text and summarize it using one of the following algorithms:
 - **LSA (Latent Semantic Analysis)**
 - **Luhn's Algorithm**
