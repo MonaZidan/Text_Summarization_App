@@ -43,4 +43,4 @@ streamlit run Text_Summarizetion_APP.py
 ```
 
 Alternatively, you can access the deployed application on Streamlit Cloud using the following link:
-[Deployed Text Summarization Application](https://<your-streamlit-cloud-app-link>)
+[Deployed Text Summarization Application](https://textsummarizationapp1.streamlit.app/)
