@@ -6,6 +6,8 @@ from sumy.summarizers.lsa import LsaSummarizer
 from sumy.summarizers.luhn import LuhnSummarizer
 from sumy.summarizers.lex_rank import LexRankSummarizer
 from sumy.summarizers.text_rank import TextRankSummarizer
+import nltk
+nltk.download('punkt')
 
 # Summarization Function
 def text_summerizer(text, summerizer="LSA", sentences_num=5):
