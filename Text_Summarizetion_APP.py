@@ -8,6 +8,7 @@ from sumy.summarizers.lex_rank import LexRankSummarizer
 from sumy.summarizers.text_rank import TextRankSummarizer
 import nltk
 nltk.download('punkt')
+nltk.download("punkt_tab")
 
 # Summarization Function
 def text_summerizer(text, summerizer="LSA", sentences_num=5):
